@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Virtual env
+venv/
+.env/
+
+# Chroma vector DB
+chroma/
+*.sqlite3
+
+# Uploaded user files
+uploaded_docs/
+
+# OS
+.DS_Store
